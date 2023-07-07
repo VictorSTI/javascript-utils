@@ -1,0 +1,44 @@
+header{
+    min-width: 100%;
+    width: 100%;
+    min-height: 80px;
+    max-height: 80px;
+    height: 100%;
+    background-color: #242424;
+}
+
+.container-menu{
+    display: flex;
+    align-items: center;
+    min-height: 80px;
+    max-height: 80px;
+    height: 100%;
+    padding: 0px 5%;
+}
+
+.box-logo{
+    max-height: inherit;
+}
+
+.box-logo img{
+    max-height: 60px;
+}
+
+/* menu */
+.box-menu *{
+    color: #999;
+}
+
+.box-menu{
+    display: flex;
+}
+
+.menu-ul{
+    height: 80px;
+    padding: 0px 20px;
+    list-style: none;
+}
+
+.menu-li{
+    height: ;
+}

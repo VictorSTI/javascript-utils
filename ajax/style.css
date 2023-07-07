@@ -1,0 +1,23 @@
+body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: #242424;
+}
+
+form{
+     display: flex;
+     flex-direction: column;
+}
+
+input {
+     margin: 5px;
+     padding: 5px;
+     font-size: 1.1rem;
+}
+
+button {
+     margin: 5px;
+     padding: 5px;
+     font-size: 1.1rem;
+}
